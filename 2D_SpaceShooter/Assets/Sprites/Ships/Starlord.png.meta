@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: a84d9b2ce4acf0345be2a9d43cd6bcb8
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Starlord_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 214
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Starlord_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 214
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Starlord_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 219
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Starlord_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 149
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Starlord_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 149
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Starlord_5
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 111
+        width: 111
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Starlord_6
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 69
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Starlord_7
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 58
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Starlord_8
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 75
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Starlord_9
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 76
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Starlord_10
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 215
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 
